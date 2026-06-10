@@ -1,3 +1,3 @@
 name = input('Wie ist dein Name?')
 
-print(f'Moin {name}')
+print(f'Moin Giorno {name}!')
