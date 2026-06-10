@@ -1,3 +1,3 @@
 name = input('Wie ist dein Name?')
 
-print(f'Tach {name}')
+print(f'Juten Tach {name}')
